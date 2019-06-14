@@ -1,7 +1,7 @@
 package missionhub.com.Helper;
 
 public class Config {
-    private static String KOBITON_CREDENTIAL = "https://Justin_Custer:a0fe65f9-1e46-44f1-85fa-ee24bbccb004@api.kobiton.com/wd/hub";
+    private static String KOBITON_CREDENTIAL = "<API_KEY>@api.kobiton.com/wd/hub";
     private static String APP_URL="https://s3-ap-southeast-1.amazonaws.com/kobiton-devvn/asg_apps/MissionHub.apk";
     private static String APP_USERNAME = "test@test.com";
     private static String APP_PASSWORD = "Test1234";
